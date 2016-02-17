@@ -1,0 +1,36 @@
+{
+  "name": "english-dates",
+  "version": "1.0.0",
+  "description": "A small utility for getting english days and months",
+  "main": "index.js",
+  "directories": {
+    "test": "happiness && mocha"
+  },
+  "dependencies": {
+    "english-days": "^1.0.0",
+    "english-months": "^1.0.0"
+  },
+  "devDependencies": {
+    "happiness": "^5.5.0",
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "happiness && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wesleytodd/english-dates.git"
+  },
+  "keywords": [
+    "dates",
+    "english",
+    "days",
+    "months"
+  ],
+  "author": "Wes Todd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleytodd/english-dates/issues"
+  },
+  "homepage": "https://github.com/wesleytodd/english-dates#readme"
+}
